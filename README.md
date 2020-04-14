@@ -4,5 +4,6 @@ Aprender a trabalhar com este tipo de ferramenta é tão importante quanto apren
 
 ![Homem-letra](https://github.com/NeoVortex/learning/blob/master/homem%20letra.gif)
 
-#### Aula 1: 
-https://youtu.be/FF1f4bKYhoo
+#### Aula 1:
+[![curso git e github](http://img.youtube.com/vi/FF1f4bKYhoo/0.jpg)](http://www.youtube.com/watch?v=FF1f4bKYhoo "Vídeo de introdução ao curso")
+
